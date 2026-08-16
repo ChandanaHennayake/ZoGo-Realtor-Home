@@ -24,9 +24,12 @@ export default function Home() {
         </svg>
       </div>
 
+   
+
       <div className="plate">
-        <span className="dot"></span>ZoGo Realtor &middot; New Home Base
-      </div>
+  <span className="dot"></span>
+  ZoGo Realtor &middot; Your Space, Your Place
+</div>
 
       <div className="stage">
         <h1>
@@ -35,8 +38,7 @@ export default function Home() {
           coming <span>soon!</span>
         </h1>
         <p className="sub">
-          We&apos;re building a friendlier way to find your next home. Packing boxes, painting walls,
-          hammering the last few nails — hang tight, the front door opens shortly.
+       Whether you&apos; re looking for a new home, apartment, office, or a place to build your next chapter, ZoGo is making real estate simpler. We&apos;re putting the finishing touches in place — see you soon.
         </p>
       </div>
 
